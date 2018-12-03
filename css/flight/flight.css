@@ -3,3 +3,6 @@
     height: 100px;
     background-color: red; 
 }
+::placeholder {
+    color: gray;
+  }
